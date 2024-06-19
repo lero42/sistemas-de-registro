@@ -3,3 +3,4 @@
 -Estado de proyecto: en construccion.
 para ejecutar el sistema, debes poner:
 ´´´npn install react´´
+sistema de registro 2
